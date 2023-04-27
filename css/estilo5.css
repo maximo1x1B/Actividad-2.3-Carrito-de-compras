@@ -1,0 +1,30 @@
+.ImagenesP{
+    width: 8em;
+    height: 8em;
+}
+.ImagenesC{
+    width: 8em;
+    height: 8em;
+}
+.ImagenesG{
+    width: 8em;
+    height: 8em;
+}
+section{
+    text-align: center;
+}
+table{
+    margin: auto;
+    border-style: double;
+}
+td{
+    text-align: center;
+    border-style: dashed double none;
+}
+input{
+    font-size: 1.5em;
+}
+input::placeholder{
+    color: red;
+    font-size: .8em;
+}
